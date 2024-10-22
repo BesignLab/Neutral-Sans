@@ -1,3 +1,5 @@
+[[简体中文]](README-CN.md)　[[English]](README.md) 
+
 # Neutral Sans
 
 Neutral Sans is a modern, humanist-inspired sans-serif typeface, designed to provide clarity, versatility, elegance and a touch of warmth. Its clean and balanced proportions, with slightly rounded curves, make it suitable for a wide variety of applications, from branding to editorial design, posters, digital and more. 
