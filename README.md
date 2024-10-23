@@ -2,9 +2,13 @@
 
 # Neutral Sans
 
+![Neutral Sans Typeface Cover](image/cover.png)
+
 Neutral Sans is a modern, humanist-inspired sans-serif typeface, designed to provide clarity, versatility, elegance and a touch of warmth. Its clean and balanced proportions, with slightly rounded curves, make it suitable for a wide variety of applications, from branding to editorial design, posters, digital and more. 
 
 Neutral Sans offers excellent legibility at small sizes and creates a bold impact in large headings. The typeface supports a wide range of languages, including Latin-based alphabets, making it a great choice for global projects.
+
+[[View Specimen]](specimen/Neutral-Sans-TypeSpecimen.pdf)
 
 ## Key Features
 
