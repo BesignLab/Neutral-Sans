@@ -8,7 +8,7 @@ Neutral Sans 是一款现代的人文主义风格无衬线字体，旨在提供�
 
 Neutral Sans 在小字号下具有出色的可读性，同时在大标题中营造出强烈的视觉冲击力。该字体支持多种语言，包括基于拉丁字母的字母表，是全球项目的理想选择。
 
-[[查看字体样本]](specimen/BOX-TypeSpecimen.pdf)
+[[查看字体样本]](specimen/Neutral-Sans-TypeSpecimen.pdf)
 
 ## 主要特性
 
