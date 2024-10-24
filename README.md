@@ -32,4 +32,4 @@ We welcome contributions to improve Neutral Sans! If you would like to contribut
 
 ## Credits
 
-Neutral Sans was designed by [Barry Shawn](https://github.com/BarryShawn) and distributed by [Besign Foundry](https://github.com/BesignLab) as part of an ongoing exploration of typeface design, focusing on balancing san-serif typeface with humanist warmth. It was crafted to meet modern design needs, while still maintaining a elegant feel.
+Neutral Sans was designed by [Barry Shawn](https://github.com/BarryShawnsz) and distributed by [Besign Foundry](https://github.com/BesignLab) as part of an ongoing exploration of typeface design, focusing on balancing san-serif typeface with humanist warmth. It was crafted to meet modern design needs, while still maintaining a elegant feel.
