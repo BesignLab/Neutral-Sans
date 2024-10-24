@@ -32,4 +32,4 @@ Neutral Sans 是开源字体，遵循 [SIL 开放字体许可证 (OFL)](https://
 
 ## 致谢
 
-Neutral Sans 由 [Barry Shawn](https://github.com/BarryShawn) 设计，由 [Besign Foundry](https://github.com/BesignLab) 分发。这是其字体设计探索项目的一部分，专注于在无衬线字体中平衡人文主义的温暖感。该字体旨在满足现代设计需求，同时保持优雅的风格。
+Neutral Sans 由 [Barry Shawn](https://github.com/BarryShawnsz) 设计，由 [Besign Foundry](https://github.com/BesignLab) 分发。这是其字体设计探索项目的一部分，专注于在无衬线字体中平衡人文主义的温暖感。该字体旨在满足现代设计需求，同时保持优雅的风格。
