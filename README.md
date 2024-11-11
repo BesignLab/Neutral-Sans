@@ -67,6 +67,22 @@ ss10 - Sided Capital M: Modifies capital M for a more asymmetrical layout.
 ss11 - Five-pointed Asterisk: Replaces the asterisk with a five-pointed design for a unique marking style.
 ```
 
+## Supported Languages
+
+Neutral Sans supports over 200 languages, here are some languages used by most of the population in the world.
+
+- English
+- Spanish
+- French
+- Portuguese
+- German
+- Thai
+- Dutch
+- Italian
+- Esperanto
+- Chinese Pinyin
+- Japanese Romoji
+
 ## License
 
 Neutral Sans is open-source and licensed under the [SIL Open Font License (OFL)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). You are free to use, modify, and distribute the font for both personal and commercial projects, provided the original font name is retained and the font is not sold by itself.
