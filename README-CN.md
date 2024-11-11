@@ -83,6 +83,8 @@ Neutral Sans 支持超过 200 种语言，以下列出一些世界大多人口�
 - 中文拼音
 - 日文罗马字
 
+你可以通过[[支持语言列表]](Supported%20Languages.md)查看 Neutral Sans 支持的所有语言。
+
 ## 许可协议
 
 Neutral Sans 是开源字体，遵循 [SIL 开放字体许可证 (OFL)](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)。您可以自由地使用、修改和分发该字体，用于个人和商业项目，前提是保留原始字体名称，且字体不得单独出售。
