@@ -8,7 +8,7 @@ Neutral Sans is a modern, humanist-inspired sans-serif typeface, designed to pro
 
 Neutral Sans offers excellent legibility at small sizes and creates a bold impact in large headings. The typeface supports a wide range of languages, including Latin-based alphabets, making it a great choice for global projects.
 
-[[View Specimen]](Specimen/Neutral Sans v1.1 Type Specimen)
+[[View Specimen]](Specimen/Neutral Sans v1.1 Type Specimen.pdf)
 
 ## Key Features
 
