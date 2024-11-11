@@ -69,7 +69,7 @@ ss11 - Five-pointed Asterisk: Replaces the asterisk with a five-pointed design f
 
 ## Supported Languages
 
-Neutral Sans supports over 200 languages, here are some languages used by most of the population in the world.
+Neutral Sans support over 200 languages, here are some languages used by most of the population in the world.
 
 - English
 - Spanish
@@ -81,6 +81,8 @@ Neutral Sans supports over 200 languages, here are some languages used by most o
 - Esperanto
 - Chinese Pinyin
 - Japanese Romoji
+
+You can view [[Supported Language List]](Supported%20Languages.md) to check all the supported languages.
 
 ## License
 
