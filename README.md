@@ -76,7 +76,6 @@ Neutral Sans supports over 200 languages, here are some languages used by most o
 - French
 - Portuguese
 - German
-- Thai
 - Dutch
 - Italian
 - Esperanto
