@@ -1,5 +1,7 @@
 [[简体中文]](README-CN.md)　[[English]](README.md)
 
+[[赞助我一杯咖啡☕️]](https://buy.stripe.com/14kbLCdeP7Budl6aEE)
+
 # Neutral Sans
 
 ![Neutral Sans Typeface Cover](image/cover.jpg)
